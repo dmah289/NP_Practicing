@@ -7,7 +7,7 @@ import java.net.SocketTimeoutException;
 public class test {
     public static void main(String[] args) throws IOException {
         GetDataByTimeOut();
-        GetDataByNoBytes();
+        // GetDataByNoBytes();
     }
 
     private static void GetDataByNoBytes() {
